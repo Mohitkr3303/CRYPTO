@@ -8,7 +8,7 @@ export const ColorModeSwitcher = (props) => {
 
   return (
     <IconButton
-      w={"100%"}
+      w={"10%"}
       variant="ghost"
       color="current"
       onClick={toggleColorMode}
