@@ -16,9 +16,8 @@ const Header = () => {
         <Button variant={"unstyled"} >
             <Link to={"/exchanges"}>Exchanges</Link>
         </Button>
-
-    <ColorModeSwitcher />
     </HStack>
+      <ColorModeSwitcher />
 
     </>
   )
