@@ -13,7 +13,7 @@ export const ColorModeSwitcher = (props) => {
       color="current"
       onClick={toggleColorMode}
       display={"flex"}
-      justifyContent={"flex-end"}
+      justifyContent={"center"}
       alignItems={"center"}
       icon={<SwitchIcon />}
       {...props}
